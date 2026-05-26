@@ -69,25 +69,6 @@ The analysis included:
 
 ---
 
-## How to Run the Project
-
-1. Clone the repository:
-```bash
-git clone <your-github-repo-link>
-```
-
-2. Install required libraries:
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-3. Run the Jupyter Notebook:
-```bash
-jupyter notebook
-```
-
----
-
 ## Conclusion
 This project demonstrates how exploratory data analysis can help identify major factors affecting customer churn and support data-driven business decisions for improving customer retention.
 
